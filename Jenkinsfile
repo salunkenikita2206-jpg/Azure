@@ -10,7 +10,7 @@ pipeline {
     agent any
 
     environment {
-        REGISTRY = 'hellojenk321.azurecr.io'
+        REGISTRY = 'nikita22.azurecr.io'
         IMAGE    = 'hello-azure'
     }
 
